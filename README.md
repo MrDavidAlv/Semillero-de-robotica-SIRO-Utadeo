@@ -1,4 +1,4 @@
-# Srmillero-de-robotica-SIRO-Uatadeo
+# SEMILLERO DE ROBOTICA Y AUTOMATIZACIÓN SIRO UTADEO
 
 Generar un espacio abierto de cultura investigativa en las áreas de robótica y automatización industrial, a través del planteamiento de soluciones robóticas para la resolución de problemáticas. Adicionalmente, el semillero busca fomentar y apoyar a los estudiantes a la participación de competencias en el área.
 
