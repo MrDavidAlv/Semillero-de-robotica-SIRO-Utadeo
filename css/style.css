@@ -5,13 +5,13 @@
 }
 
 body {
-    background: #33bbff;
+    background: #223B53;
 
 }
 
 p{
     text-shadow: 0.5px 0.5px 0.5px black;
-    font-size: 160%; 
+    font-size: 160%;
     line-height: 150%;
     padding: 3%;
     text-indent: 2%;
@@ -29,7 +29,7 @@ h3{
 }
 
 a{
-    color: blue;
+    color: yellow;
     font-size: 200%;
     text-decoration: none;
     font-weight: bold;
@@ -294,24 +294,3 @@ footer {
         font-size: 80%;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
